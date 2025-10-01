@@ -1,2 +1,2 @@
 print('hello world')
-prinnt('hero')
+print('hero')
