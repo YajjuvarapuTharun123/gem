@@ -12,4 +12,3 @@ creds1.json
 tokens/
 gdrive_mcp/
 __pycache__/
-oauth tests/
