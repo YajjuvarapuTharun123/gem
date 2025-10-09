@@ -1,0 +1,15 @@
+node_modules/
+build/
+myenv/
+.env
+*.log
+.DS_Store
+.idea/
+.vscode/
+TS-MCP.md
+users.json
+creds1.json
+tokens/
+gdrive_mcp/
+__pycache__/
+oauth tests/
